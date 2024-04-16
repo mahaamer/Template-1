@@ -1,12 +1,9 @@
-
-
 <h1 align="center">Leon Website</h1>
 <p align="center">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status">
-
 </p>
 <p align="center">
-    <img src="(https://github.com/mahaamer/Template-1/blob/main/Leo%20website.png" alt="Leon Website Screenshot">
+    <img src="https://github.com/mahaamer/Template-1/blob/main/Leo%20website.png" alt="Leon Website Screenshot">
 </p>
 
 ## Introduction
